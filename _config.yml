@@ -102,4 +102,6 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Nanai10a/hexo-test.git
+  branch: master
