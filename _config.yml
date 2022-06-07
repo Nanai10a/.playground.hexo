@@ -103,5 +103,5 @@ theme: stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Nanai10a/hexo-test.git
+  repo: https://github.com/Nanai10a/.playground.hexo.git
   branch: publish
