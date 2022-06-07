@@ -1,0 +1,20 @@
+reminder: true
+minify: true
+
+scheme: Mist
+darkmode: true
+
+comments:
+  active: valine
+  lazyload: true
+
+valine:
+  enable: true
+  appid: ''
+  appkey: ''
+  placeholder: Insert your comments here...
+  language: ja
+  guest_info: nick
+
+google_analytics:
+  tracking_id: ''
